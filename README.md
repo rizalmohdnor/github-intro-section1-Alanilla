@@ -1,3 +1,10 @@
+#Task for the assignment 1
+###Putting my Name
+- Muhammad Norazlan bin A Samat@Samad
+###Putting my Matric Number
+- 2116455
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
